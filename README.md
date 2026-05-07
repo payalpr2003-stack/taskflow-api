@@ -126,19 +126,7 @@ DELETE API
 ### VERIFY DELETE
 ![VERIFY DELETE](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/verify-delete.png)
 
----
-### PUT API
 
-![PUT API](./screenshots/put-api.png)
-
----
-
-### DELETE API
-
-![DELETE API](./screenshots/delete-api.png)
-
-## VERIFY DELETE
-![VERIFY DELETE](./screenshots/verify-delete.png)
 
 ## Technologies Used
 
