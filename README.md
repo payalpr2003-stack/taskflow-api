@@ -105,40 +105,40 @@ DELETE API
 ## Screenshots
 ### Folder Structure
 
-![folder-structure](screenshots/folder-structure.png)
+![folder-structure](./screenshots/folder-structure.png)
 
 ---
 
 ### Server Running
 
-![Server Running](screenshots/server-running.png)
+![Server Running](./screenshots/server-running.png)
 
 ---
 
 ### GET API
 
-![GET API](screenshots/get-api.png)
+![GET API](./screenshots/get-api.png)
 
 ---
 
 ### POST API
 
-![POST API](screenshots/post-api.png)
+![POST API](./screenshots/post-api.png)
 
 ---
 
 ### PUT API
 
-![PUT API](screenshots/put-api.png)
+![PUT API](./screenshots/put-api.png)
 
 ---
 
 ### DELETE API
 
-![DELETE API](screenshots/delete-api.png)
+![DELETE API](./screenshots/delete-api.png)
 
 ## VERIFY DELETE
-![VERIFY DELETE](screenshots/verify-delete.png)
+![VERIFY DELETE](./screenshots/verify-delete.png)
 
 ## Technologies Used
 
