@@ -105,7 +105,7 @@ DELETE API
 ## Screenshots
 ### Folder Structure
 
-![Folder Structure](screenshots/folder-structure.png)
+![folder-structure](screenshots/folder-structure.png)
 
 ---
 
