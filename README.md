@@ -103,30 +103,8 @@ DELETE API
 
 
 ## Screenshots
-## Screenshots
 
-### Folder Structure
-![Folder Structure](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/folder-structure.png)
 
-### Server Running
-![Server Running](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/server-running.png)
-
-### GET API
-![GET API](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/get-api.png)
-
-### POST API
-![POST API](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/post-api.png)
-
-### PUT API
-![PUT API](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/put-api.png)
-
-### DELETE API
-![DELETE API](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/delete-api.png)
-
-### VERIFY DELETE
-![VERIFY DELETE](https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/verify-delete.png)
-
-L<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/server-running.png" width="700">
 
 ## Technologies Used
 
