@@ -103,6 +103,28 @@ DELETE API
 
 
 ## Screenshots
+<h2>Screenshots</h2>
+
+<h3>1. Folder Structure</h3>
+<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/1-folder-structure.png" width="700"/>
+
+<h3>2. Server Running</h3>
+<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/2-server-running.png" width="700"/>
+
+<h3>3. GET API</h3>
+<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/3-get-api.png" width="700"/>
+
+<h3>4. POST API</h3>
+<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/4-post-api.png" width="700"/>
+
+<h3>5. PUT API</h3>
+<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/5-put-api.png" width="700"/>
+
+<h3>6. DELETE API</h3>
+<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/6-delete-api.png" width="700"/>
+
+<h3>7. Verify DELETE API</h3>
+<img src="https://raw.githubusercontent.com/payalpr2003-stack/taskflow-api/main/screenshots/7-verify-delete.png" width="700"/>
 
 
 
